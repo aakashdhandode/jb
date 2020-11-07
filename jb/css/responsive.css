@@ -1,0 +1,39 @@
+@media only screen and (max-width: 768px) {
+    nav.navbar .navbar-brand img.logo {
+        width: 70px;
+        margin: -11px 0 0 77px;
+    }
+    nav.navbar.bootsnav .navbar-toggle {
+        margin-top: -53px;
+    }
+
+    .banner-content {
+        padding-top: 1vh;
+    }
+
+    .banner-info h1 {
+        color: #fff;
+        padding-top: 0px;
+        line-height: 1.5;
+        font-size: 24px;
+        text-align: center
+    }
+
+    .pt-80 {
+        padding-top: 20px !important;
+    }
+    .bg-gray{
+        padding: 0px 20px;
+    }
+    .tab .nav-tabs{
+        border-radius: 0px
+    }
+    .coll{
+        padding: 0px 0 0 0;
+        margin: -38px 0 31px -18px;
+      
+    }
+}
+.banner-content {
+    padding-top: 7vh;
+}
